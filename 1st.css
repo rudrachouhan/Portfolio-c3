@@ -1,0 +1,35 @@
+img {
+  width: 20%;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+.info{
+    display: flex;
+}
+.m-info{
+    margin-top: 25px;
+}
+.m-qual{
+    display: flex;
+    justify-content: space-evenly;
+}
+.m-qual div p{
+    margin-bottom: 30px;
+}
+.pi{
+    display: flex;
+    margin-left: 30px;
+}
+.pi-info1{
+    margin-right: 40px;
+}
+body{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 0px;
+    background-color: #FDF6F0;
+}
+
+.brown{
+    color: #753422;
+}
